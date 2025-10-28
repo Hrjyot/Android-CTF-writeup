@@ -1,7 +1,7 @@
 # Android-CTF-writeup
 
 
-Trellix CTF Challenge Write-Up: Android APK Reverse Engineering
+CTF Challenge Write-Up: Android APK Reverse Engineering
 Methodology:
 1. Setup & Tooling
 System: Windows 11 (physical desktop)
